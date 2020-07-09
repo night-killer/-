@@ -1,3 +1,4 @@
+/*（0,1）均匀分布*/
 #include<bits/stdc++.h>
 int main()
 {
