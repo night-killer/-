@@ -1,3 +1,4 @@
+/*瑞利分布*/
 #include<bits/stdc++.h>
 int main()
 {
