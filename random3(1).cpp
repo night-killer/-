@@ -1,3 +1,4 @@
+/*高斯分布*/
 #include<bits/stdc++.h>
 #define PI 3.1415926535897932
 /*注：因为Wichmann-Hill算法产生的随机数相关性过强，所以使用了C++自带的随机数发生器。
